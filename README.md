@@ -1,2 +1,2 @@
 # Space-Lab
-Educational
+University project uwu
